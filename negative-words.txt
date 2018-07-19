@@ -1665,6 +1665,7 @@ figurehead
 filth
 filthy
 finagle
+fine
 finicky
 fissures
 fist
