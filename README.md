@@ -9,3 +9,6 @@ Dan:
 -Pos/neg list exercises 
 -"sentiment analysis" exercise 
 
+Google Amazon Facebook Snapchat Netflix
+Set up yahoo-finance share price retrieval
+Compare share to article sentiments at publish date
