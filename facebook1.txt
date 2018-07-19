@@ -1,17 +1,17 @@
 Facebook Gives Researchers ‘Full Access’ for Election Studies
-Facebook Inc. FB -0.30% will give a newly formed group of academics “full access” to data on its 2.2 billion users for the purpose of identifying areas of research about the effects of social media on elections and democracy, the group said Wednesday.
-Social Science One, a group formed earlier this year with backing from nonprofits including The John S. and James L. Knight Foundation and The Charles Koch Foundation, said it would start accepting proposals from researchers for funding.
+Facebook Inc. FB -0.30% will give a newly formed group of academics “full access” to data on its 2.2 billion users for the purpose of identifying areas of research about the effects of social media on elections and democracy, the group said Wednesday.
+Social Science One, a group formed earlier this year with backing from nonprofits including The John S. and James L. Knight Foundation and The Charles Koch Foundation, said it would start accepting proposals from researchers for funding.
 Facebook is participating in the effort as part of what company officials have said is a renewed commitment to transparency and stamping out abuses on the platform.
 In making the alliance, Facebook is continuing to work with outside researchers even as it grapples with the fallout from revelations that data-analytics firm Cambridge Analytica improperly accessed and retained user data. That data were initially gathered by a psychology professor at the University of Cambridge.
-The founders of Social Science One said they have put safeguards in place to prevent future abuses or leaks. The group says it will remove personally identifying information from any of the data sets it gives to outside researchers and that no data will ever leave Facebook’s servers. It will also closely monitor any studies that involve sensitive user information.
-But to determine which data sets to release, a half-dozen primary researchers will have broad access to Facebook’s proprietary user data, said Gary King, a social science professor at Harvard University and one of the co-chairs of the research group.
+The founders of Social Science One said they have put safeguards in place to prevent future abuses or leaks. The group says it will remove personally identifying information from any of the data sets it gives to outside researchers and that no data will ever leave Facebook’s servers. It will also closely monitor any studies that involve sensitive user information.
+But to determine which data sets to release, a half-dozen primary researchers will have broad access to Facebook’s proprietary user data, said Gary King, a social science professor at Harvard University and one of the co-chairs of the research group.
 “We would have the same access that employees would have,” Mr. King said in an interview.
 A Facebook spokesman said the researchers with database access are contractually bound not to disclose any data about the company or its users, and that their activity will be monitored for potential privacy breaches.
 After publication of this article, spokespeople for Facebook and the research group said Mr. King had misspoken. The Facebook spokesman said that the researchers won’t have the same access as employees and that their view “will be limited to public information and de-identified or aggregated datasets.”
 Social Science One plans to make grants to other groups of researchers who request access to select sets of user data from Facebook. The group’s first research project involves combing through one million gigabytes of information about the links users have clicked on over the past year to find patterns about fake news.
 Giving researchers access to data raises questions around user privacy, but it also gives the public a valuable glimpse into Facebook’s practices, said Eric Goldman, a law professor at Santa Clara University.
 “There’s no way to really hold internet companies accountable without getting access to their data,” Mr. Goldman said.
-Social Science One said Facebook wouldn’t have the ability to review or reject any studies that result from the researchers’ work.
+Social Science One said Facebook wouldn’t have the ability to review or reject any studies that result from the researchers’ work
 
 
 Facebook is still attempting to locate the app developers who had access to large amounts of user data and find out how they used the information between 2007 and 2015, when the company officially cut data access for all apps.
