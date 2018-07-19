@@ -1,0 +1,31 @@
+Google Is Fined $5 Billion by EU in Android Antitrust Case
+The European Union hit Alphabet Inc.’s Google with a record $5 billion antitrust fine and ordered changes that could reshape the business model underlying its biggest growth engine: mobile phones.
+In another rebuke to one of Silicon Valley’s tech giants, the bloc’s antitrust regulator found Wednesday that Google had abused the dominance of its Android operating system, which runs more than 80% of the world’s smartphones, to promote and entrench the company’s cash-cow search engine.
+
+The fine, Europe’s largest so far related to antitrust issues, is equivalent to about 40% of Google’s 2017 net profit of $12.62 billion. For cash-rich Alphabet, however, the financial penalty is potentially less onerous than the business changes Brussels has demanded, which could give players including smartphone makers and mobile carriers more leverage to extract payments from Google and its rivals.
+The EU ordered Google to stop making phone manufacturers pre-install its search app and the Chrome web browser if they want to pre-install Google’s Play store, which is the dominant way to download Android apps. The bloc also ordered Google to end restrictions that discourage manufacturers from selling devices that run unofficial versions of Android.
+Google, which said it would appeal the decision, has rejected the EU’s contentions since the bloc issued formal charges over two years ago. Google said Android, which is free for manufacturers to use, has increased competition among smartphone makers, lowering prices for consumers. Google also said the allegation that it stymied competing apps is false because manufacturers typically install many rival apps on Android devices—and consumers can download others.
+“Today’s decision rejects the business model that supports Android, which has created more choice for everyone, not less,” Sundar Pichai, Google’s chief executive, wrote in a blog post following the decision.
+
+Alphabet shares ended the day little changed at $1,212.91.
+
+The impact of any changes mandated by the EU decision on Google’s ability to target ads to users—and to its profitability—is an open question. The two apps targeted in the EU decision, Google’s search and its Chrome browser, are extremely popular in their own right. Consumers are likely to seek them out from an app store even if they weren’t preinstalled on the phone, said Tarun Pathak, an analyst at research firm Counterpoint.
+And while the EU ruling may have opened the door for device makers that want to charge Google to pre-install its search and browser apps, Google has its own leverage over manufacturers. The internet giant could counter by demanding payment for Android. Mark Mahaney, an analyst at RBC Capital Markets, has noted there aren’t many competing options.
+
+Google’s investment in Android dates back to 2005, when Google paid $50 million to acquire a small startup behind a new touch-screen operating system for phones. Google’s wager was that providing a free Android operating system for phones would hook smartphone makers, allowing Google to disseminate apps and bolster its online ad business in the emerging era of smartphones.
+The strategy worked. Google is now a mobile superpower expected to generate more than $60 billion in revenue this year from mobile ads, according to eMarketer Inc. That amount would be 44% of Alphabet’s estimated overall revenue of $136 billion for 2018, according to S&P Global Market Intelligence.
+That dominance was partly achieved through a simple tradeoff: In exchange for providing Android to smartphone makers free of charge, Google encourages them to offer devices loaded with Google services such as search, YouTube, Gmail and Google Maps. That allows Google to gather vast amounts of data on consumers based on their use of those popular apps and then devise and target ads.
+
+Now, Google may be forced to offer new terms that give handset makers and phone carriers more freedom to feature their own apps, strike deals with Google’s rivals or even charge Google for pre-installing its apps.
+
+“It could give the mobile phone companies, or the operators, greater leverage to extract payment from Google,” Mr. Mahaney said, speaking before the EU decision.
+Brussels has given Google 90 days to make the changes it is demanding, including requiring Google to permit phone makers to offer their own tailored operating systems based on Android’s open-source version. That requirement could make it harder for Google to offer a single, standardized version of its mobile software on which all Android apps can be used.
+
+The decision, while applicable only in Europe, will require changes in its relationship with global device makers that sell products on the continent. Google doesn’t break out its EU revenue; in 2017 it brought in $36.05 billion in revenue from Europe, Middle East and Africa, a third of its total, according to a securities filing.
+
+The EU ruling could ultimately benefit smartphone users by helping mobile app makers compete with Google services by offering better features and lower prices, said John M. Simpson, privacy and technology project director at Consumer Watchdog, a Los Angeles-based nonprofit.
+Supporters of Google, however, contend that the company may have less incentive to develop innovative Android products if it ends up making less money from mobile phones.
+
+The fine is the latest in a series of decisions in which the EU has played the role of global tech regulator, moving with particular force against U.S. companies on issues ranging from competition to taxes to privacy.
+
+The EU has also ordered the recovery of alleged unpaid taxes from Apple Inc. and Amazon.com Inc., and is considering potential new rules for internet platforms on topics ranging from hate speech to copyright liability.
